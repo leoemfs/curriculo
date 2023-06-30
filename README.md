@@ -1,1 +1,2 @@
 # curriculo
+# web basic
